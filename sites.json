@@ -661,5 +661,11 @@
 		"name" : "ImageShack",
 		"url" : "http://imageshack.us/prefs/",
 		"difficulty" : "easy"
+	},
+	{
+		"name" : "CircleCount",
+		"url" : "http://www.circlecount.com/settings/",
+		"difficulty" : "easy",
+		"notes": "You can enable the option at 'Hide your Google+ profile on CircleCount.com?' and click after saving on 'Disconnect'"
 	}
 ]
